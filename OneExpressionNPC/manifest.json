@@ -1,0 +1,9 @@
+{
+   "Name": "One Expression NPC",
+   "Author": "Kronosta",
+   "Version": "1.0",
+   "Description": "A coding challenge I embarked on to write entire mods inside only one statement in the Entry method.",
+   "UniqueID": "Kronosta.OneExpressionNPC",
+  "MinimumApiVersion": "3.18",
+  "EntryDll": "OneExpressionNPC.dll"
+}

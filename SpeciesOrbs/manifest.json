@@ -1,0 +1,13 @@
+{
+    "Name": "Species Orbs",
+    "Author": "Kronosta",
+    "Version": "1.0",
+    "Description": "Allows you to transform into different species. (Requires content packs)",
+    "UniqueID": "Kronosta.SpeciesOrbs",
+    "MinimumApiVersion": "3.18",
+    "EntryDll": "SpeciesOrbs.dll",
+    "Dependencies": [
+        { "UniqueID": "Pathoschild.ContentPatcher", "Required": false }
+    ]
+ }
+ 

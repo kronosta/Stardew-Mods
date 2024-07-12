@@ -1,0 +1,9 @@
+{
+    "Name": "Forage Crops",
+    "Author": "Kronosta",
+    "Version": "1.0.0",
+    "Description": "Adds a way for Content Patcher packs to add custom crops that behave like Wild Seeds.",
+    "UniqueID": "Kronosta.ForageCrops",
+    "EntryDll": "ForageCrops.dll",
+    "MinimumApiVersion": "4.0.0"
+}

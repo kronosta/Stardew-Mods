@@ -1,0 +1,9 @@
+{
+   "Name": "Bring A Friend",
+   "Author": "Kronosta",
+   "Version": "1.0",
+   "Description": "A framework allowing dialogue to trigger new NPCs to be added.",
+   "UniqueID": "Kronosta.BringAFriend",
+  "MinimumApiVersion": "3.18",
+  "EntryDll": "BringAFriend.dll"
+}

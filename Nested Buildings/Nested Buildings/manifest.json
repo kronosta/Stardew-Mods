@@ -1,0 +1,8 @@
+{
+    "Name": "Nested Buildings Framework",
+    "Author": "Kronosta",
+    "Version": "1.0.0",
+    "Description": "A simple framework mod that makes CanBuildHere work in buildings.",
+    "UniqueID": "Kronosta.NestedBuildings",
+    "EntryDll":  "Nested Buildings.dll"
+}

@@ -1,0 +1,8 @@
+{
+    "Name": "Separate Farms",
+    "Author": "Kronosta",
+    "Version": "1.0.0",
+    "Description": "Allows having multiple farms.",
+    "UniqueID": "Kronosta.SeparateFarms",
+    "EntryDll":  "SeparateFarms.dll"
+}

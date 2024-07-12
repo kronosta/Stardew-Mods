@@ -1,0 +1,14 @@
+{
+    "Name": "Inline DGA",
+    "Author": "Kronosta",
+    "Version": "1.0.0",
+    "Description": "Put Dynamic Game Assets content packs inside of content patcher!",
+    "UniqueID": "Kronosta.InlineDGA",
+    "EntryDll": "InlineDGA.dll",
+    "Dependencies": [
+        {
+            "UniqueID": "spacechase0.DynamicGameAssets",
+            "IsRequired": true
+        }
+    ]
+}
