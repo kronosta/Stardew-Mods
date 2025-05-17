@@ -153,9 +153,10 @@ namespace FarmCaveFramework
                         scale = a.scale,
                         delayBeforeAnimationStart = a.delay,
                         layerDepth = 1f,
-                        light = a.light,
+                        lightId = "8989",
                         lightRadius = a.lightRadius
                     });
+
                 }
             }
             Game1.ambientLight = caveChoice.ambientLight;
